@@ -34,3 +34,7 @@ export NVM_DIR="$HOME/.nvm"
 
 export EDITOR=nvim
 export VISUAL=nvim
+
+
+# add github username
+export GITHUB_USERNAME=a3ng7n
