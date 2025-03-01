@@ -45,6 +45,9 @@ sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emula
 # python dev
 sudo apt install python3.12-venv
 
+# install uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
 # neovim
 sudo apt install make gcc ripgrep unzip git xclip fd-find luarocks
 sudo add-apt-repository ppa:neovim-ppa/unstable
